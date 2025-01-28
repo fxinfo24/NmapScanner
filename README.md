@@ -74,7 +74,7 @@ Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 Contact
-For any issues or feature requests, please open an issue on GitHub or contact the maintainer at [your-email@example.com].
+For any issues or feature requests, please open an issue on GitHub or contact the maintainer at [fxinfo24@gmail.com].
 
 User Guide for Nmap Automation Script
 Introduction
@@ -176,7 +176,7 @@ Can I scan multiple targets? Yes, specify multiple targets separated by commas (
 How do I scan all ports? Use the -p 1-65535 argument.
 Is this script safe to use? The script is a tool for legitimate security assessments. Ensure you have permission to scan the target systems.
 Support
-For further assistance, please contact [your-email@example.com].
+For further assistance, please contact [fxinfo24@gmail.com].
 
 ## Comprehensive list of Nmap automation script commands
 
